@@ -3,12 +3,12 @@ __pycache__/
 *.py[oc]
 build/
 dist/
-temp_auto_push.bat
 wheels/
 *.egg-info
 
 # Virtual environments
 .venv
 .gitignore
-temp_interactive_push.bat
 branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
